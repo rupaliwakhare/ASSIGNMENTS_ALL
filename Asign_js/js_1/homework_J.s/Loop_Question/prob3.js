@@ -1,5 +1,5 @@
 
-// 3.	3. odd numbers from 1 to 20.
+// 3.	 odd numbers from 1 to 20.
 
 
 
